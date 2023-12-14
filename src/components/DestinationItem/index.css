@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.destination-item {
+  list-style: none;
+  margin: 20px;
+}
+.destination-image {
+  height: 150px;
+}
